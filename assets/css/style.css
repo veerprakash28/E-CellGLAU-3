@@ -444,7 +444,7 @@ section {
   left: 0;
   right: 0;
   transform: skewY(-3deg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.842), rgba(0, 0, 0, 0.534)),url('./images/abstract-business-people-city-buildings-01-01.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.842), rgba(0, 0, 0, 0.534)),url('/images/abstract-business-people-city-buildings-01-01.jpg');
   width: 100%;
 }
 .tabs1:hover{
@@ -2068,7 +2068,7 @@ transform: scale(1.2);
   text-align: center;
   border-radius: 8px;
   overflow: hidden;
-  background-image:url('./images/StudentCouncilDark-01.png');
+  background-image:url('/images/StudentCouncilDark-01.png');
   
 
 }
@@ -2213,7 +2213,7 @@ transform: scale(1.2);
   opacity: 1;
   pointer-events: auto;
   transition: 1s;
-  background-image:url('./images/StudentCouncilActive-01.png');
+  background-image:url('/images/StudentCouncilActive-01.png');
 }
 
 .card-carousel .my-card.prev, .card-carousel .my-card.next {
