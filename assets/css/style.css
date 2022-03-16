@@ -444,7 +444,7 @@ section {
   left: 0;
   right: 0;
   transform: skewY(-3deg);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.842), rgba(0, 0, 0, 0.534)),url('/images/abstract-business-people-city-buildings-01-01.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.842), rgba(0, 0, 0, 0.534)),url('/abstract-business-people-city-buildings-01-01.jpg');
   width: 100%;
 }
 .tabs1:hover{
