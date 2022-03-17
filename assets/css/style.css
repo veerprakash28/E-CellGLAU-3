@@ -121,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 .logo1{
-    width: 500px;position:absolute;left: 34%;
+    width: 500px;
 }
 @media (max-width: 992px) {
   .get-started-btn {
@@ -130,17 +130,14 @@ h1, h2, h3, h4, h5, h6 {
   }
   .ticket{
     display: flex;
-justify-content: center;
-width: 100%;
-margin-left: 0;
-margin-right: 0;
-
-
+    justify-content: center;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
   }
+
  .logo1{
     width: 400px;
-    position:absolute;
-    left: 23%;
  }
 
   
