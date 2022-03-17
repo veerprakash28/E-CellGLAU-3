@@ -131,19 +131,23 @@ justify-content: center;
 width: 100%;
 margin-left: 0;
 margin-right: 0;
+
+
   }
 }
 .ticket{
-  background: linear-gradient(to right,#1d134a,  #40168d);
+  background: white;
   display: flex;
 justify-content: center;
 width: 100%;
 margin-left: 0;
 margin-right: 0;
+height: 45px;
+color:black;
 }
 .ticket:hover{
-  border: 2px solid #e86105;
-  color: #000000;
+  border: 2px solid white;
+  color: white;
   background: transparent;
 }
 
