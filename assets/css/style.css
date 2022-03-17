@@ -125,6 +125,26 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 15px 0 0;
     padding: 6px 18px;
   }
+  .ticket{
+    display: flex;
+justify-content: center;
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+  }
+}
+.ticket{
+  background: linear-gradient(to right,#1d134a,  #40168d);
+  display: flex;
+justify-content: center;
+width: 100%;
+margin-left: 0;
+margin-right: 0;
+}
+.ticket:hover{
+  border: 2px solid #e86105;
+  color: #000000;
+  background: transparent;
 }
 
 /*--------------------------------------------------------------
